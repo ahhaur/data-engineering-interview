@@ -1,7 +1,7 @@
 # Instructions
 Candidates shall use python and T-sql to implement the task.
 
-Fork a copy, implement the task and document/ comment the codes in your own github repository to achive the expected results below.
+**Fork a copy first into your github!**. Implement the task and document/ comment the codes in your own github repository to achive the expected results below.
 
 Deposit your CV in the same personal github repository when you are completed with the Task.
 
